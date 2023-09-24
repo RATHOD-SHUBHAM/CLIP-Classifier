@@ -19,3 +19,7 @@
 
   * Run app:
     streamlit run app.py
+
+
+
+<img width="434" alt="Screenshot " src="https://github.com/RATHOD-SHUBHAM/CLIP-Classifier/assets/58945964/6855408f-0504-4a94-8375-58ef9859e9f8">
