@@ -11,3 +11,5 @@ This is the Image & Text model CLIP, which maps text and images to a shared vect
   1. Git clone Repository.
   2. cd ImageSearch.
   3. pip install requirements.txt
+
+<img width="367" alt="sc" src="https://github.com/RATHOD-SHUBHAM/CLIP-Classifier/assets/58945964/32eebda7-49e0-49af-9704-1a2375662d81">
